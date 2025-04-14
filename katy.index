@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="imagenes/pollo.png"/>
+        <b> <center><h1>Empresa de pollo campero S.A.</h1>
+        <H2>Guatemalan chicken food.</H2>
+    </b></center>
+    <hr color="blue" size="12" noshade="2">
+    </header>
+    <main>
+        <p>
+            <h1 style="color:blue: size:12">5to. Bach.</h1>
+            <center>origenes</center><br>
+            <center>Empresa Guatemalteca</center><br>
+            <center>fundada por familia Gutierres Bosh</center><br>
+            <center>ciudad de Quetzaltenango</center><br>
+            <center>primer restaurante zona 1 cdad.capital Guatemalan
+            </center><br>
+        </p>
+    </main>
+    <hr color="cyan" size="12" noshade="2">
+    <br> <center><h1>katerin Arriaga</h1>
+    
+    
+</body>
+</html>
