@@ -1,0 +1,15 @@
+h1{
+    color:orange;
+}
+h2{
+    color:red
+    size:23;
+    font-family: 'times new roman',times, serif;
+}
+img{
+    color:red:
+    size:23;
+    font-family:'times new roman', times, serif;
+    width:300px;
+    helght:200px;
+}
